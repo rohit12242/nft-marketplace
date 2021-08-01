@@ -1,4 +1,4 @@
 
 
-Nft marketplace build using flow blockchain
+Nft marketplace build using Etherum blockchain
 
